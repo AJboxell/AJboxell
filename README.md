@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A newbie developer from London</h3>
 
-- 🔭 I’m currently looking for **a junior backend role**
-
 - 🌱 I’m currently learning **Ruby (on Rails) and JavaScript (and about to get stuck into Python)**
+
+- 🔭 I’m looking for **a junior backend role**
 
 - 👯 I’m looking to collaborate on **beginner-friendly open-source projects**
 
-- 📫 How to reach me **alexjboxell@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/alex-boxell-54883859/](https://www.linkedin.com/in/alex-boxell-54883859/)
+- 📫 Reach me at **alexjboxell@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
