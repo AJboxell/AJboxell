@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A fullstack developer from London</h3>
 
-- 🌱 I’m currently learning **Ruby (on Rails) and JavaScript**
-
-- 👯 I’m looking to collaborate on **beginner-friendly open-source projects**
+- 🌱 I’m currently working mostly with **Ruby (on Rails) and React**
 
 - 📫 Reach me at **alexjboxell@gmail.com**
 
